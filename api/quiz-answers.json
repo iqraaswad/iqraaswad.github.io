@@ -1,0 +1,22 @@
+{
+  "q1": {
+    "jawaban": 0,
+    "penjelasan": "Generasi pertama (1940–1956) memakai tabung vakum sebagai sakelar elektronik, seperti pada ENIAC."
+  },
+  "q2": {
+    "jawaban": 1,
+    "penjelasan": "Transistor membuat komputer lebih andal, sehingga bahasa tingkat tinggi seperti FORTRAN (1957) dan COBOL (1959) berkembang pada generasi kedua."
+  },
+  "q3": {
+    "jawaban": 2,
+    "penjelasan": "System/360 (1964) adalah ikon generasi ketiga yang memakai sirkuit terpadu dan memperkenalkan keluarga komputer kompatibel."
+  },
+  "q4": {
+    "jawaban": 2,
+    "penjelasan": "Mikroprosesor (dimulai Intel 4004 pada 1971) memadatkan unit pengolah ke satu chip, membuka jalan bagi komputer pribadi."
+  },
+  "q5": {
+    "jawaban": 3,
+    "penjelasan": "Generasi kelima berfokus pada kecerdasan buatan, pemrosesan paralel, dan komputasi kuantum."
+  }
+}
